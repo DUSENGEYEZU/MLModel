@@ -1,0 +1,26 @@
+django enveronemnt set up on conda
+https://codefires.com/how-run-django-conda-environment/
+// activate everonment in conda
+conda activate django_env
+// create djando project
+django-admin startproject nameofProject
+to run server
+python manage.py run server
+// reating django app
+
+// migrate
+
+python manage.py makemigrations
+python manage.py migrate
+
+
+https://www.section.io/engineering-education/customizing-django-admin/
+
+https://learndjango.com/tutorials/django-login-and-logout-tutorial
+
+pip install -r requirements.txt
+## modifiigng form field in view
+http://www.learningaboutelectronics.com/Articles/How-to-save-the-current-user-logged-in-to-a-database-table-in-Django.php
+
+## maniplating addiming pages
+https://realpython.com/customize-django-admin-python/
